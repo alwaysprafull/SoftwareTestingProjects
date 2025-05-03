@@ -1,6 +1,6 @@
 # 🧪 SoftwareTestingProjects
 
-Manual QA Testing Porject - A comprehensive and practical resource for Manual QA Testing — featuring test case templates, detailed bug report samples, structured test plans, and real-world testing scenarios. This repo packed with real-world examples, reusable templates, and step-by-step documentation to help QA professionals and beginners ensure software quality with confidence.
+Manual QA Testing Porject - A comprehensive and practical resource for Manual QA Testing — featuring test case templates, detailed bug report samples, structured test plans, and real-world testing scenarios. This repository packed with real-world examples, reusable templates, and step-by-step documentation to help QA professionals and beginners ensure software quality with confidence.
 
 ---
 ## 📘 Overview
